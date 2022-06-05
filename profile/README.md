@@ -1,6 +1,6 @@
 # Acelera iCarros Tech - Flavin do Pneu
 
-![Logo Equipe](./profile/flavin.png)
+![Logo Equipe](./main/profile/flavin.png)
 
 ## Introdução
 

@@ -23,7 +23,7 @@ Projeto elaborado e planejado por:
 - [Higor Eduardo Batista](https://github.com/bhigoreduardo).
 - [Yuri Cavalini](https://github.com/yuricavalini).
 
-*Fun Fact*: o nome do grupo teve como inspiração esse [grande meme de 2020](https://www.youtube.com/watch?v=4mrfp-VxxZM), créditos para a Glória e Higor.
+*Fun Fact: o nome do grupo teve como inspiração esse [grande meme de 2020](https://www.youtube.com/watch?v=4mrfp-VxxZM), créditos para a Glória e Higor.*
 
 ### Materiais utilizados
 

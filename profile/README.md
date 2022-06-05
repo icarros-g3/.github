@@ -1,12 +1,29 @@
-## Hi there 👋
+# Acelera iCarros Tech - Flavin do Pneu
 
-<!--
+![Logo Equipe](flavin.png)
 
-**Here are some ideas to get you started:**
+## Introdução
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Projeto realizado durante o [<"acelera"><"iCarros_Tech">](https://aceleraicarrostech.corporate.gama.academy/), programa de aceleração feito em parceria de [Gama Academy](https://www.gama.academy/) e o [iCarros](https://www.icarros.com.br/principal/index.jsp).
+
+O programa consiste em dois projetos, com base no protótipo passado no [figma](https://www.figma.com/file/FnTOK15dbxgyBC2JqTMEpy/E-carros?node-id=2121%3A2407), serão construídas duas aplicações:
+
+1. Utilizando apenas HTML, CSS e JS.
+2. Utilizando React.
+
+Este é o github criado para condensar todos os trabalhos efetuados pelo grupo.
+
+## Créditos
+
+Projeto elaborado e planejado por:
+
+- [Diego Sano](https://github.com/diegosano).
+- [Gloria Guazzini Porte](https://github.com/gloriaporte).
+- [Guilherme de Araujo Gabriel](https://github.com/guilhermag).
+- [Higor Eduardo Batista](https://github.com/bhigoreduardo).
+- [Yuri Cavalini](https://github.com/yuricavalini).
+
+### Materiais utilizados
+
+- Protótipo com ícones, imagens e planos de fundo : [Gama Academy](https://www.gama.academy/).
+- Aulas ministradas pelo professor [Douglas Morais](https://github.com/mrdouglasmorais) 
